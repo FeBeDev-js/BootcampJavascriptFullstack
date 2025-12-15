@@ -1,0 +1,3 @@
+Entrega ejercicio 3 js promedio curso ponderado
+
+https://github.com/FeBeDev-js/BootcampJavascriptFullstack/tree/main/ENTREGAS/ejercicio%20promedio%20ponderado
